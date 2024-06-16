@@ -1,0 +1,8 @@
+custom_histogram(data, "Var1", bins = 20, title = "Histogram of Var1", xlab = "Var1", ylab = "Frequency", color = "maroon")
+custom_histogram(data, "Var2", bins = 20, title = "Histogram of Var2", xlab = "Var2", ylab = "Frequency", color = "maroon")
+custom_histogram(data, "Var3", bins = 20, title = "Histogram of Var3", xlab = "Var3", ylab = "Frequency", color = "maroon")
+custom_histogram(data, "Var4", bins = 20, title = "Histogram of Var4", xlab = "Var4", ylab = "Frequency", color = "maroon")
+custom_histogram(data, "Var5", bins = 20, title = "Histogram of Var5", xlab = "Var5", ylab = "Frequency", color = "maroon")
+custom_histogram(data, "Var6", bins = 20, title = "Histogram of Var6", xlab = "Var6", ylab = "Frequency", color = "maroon")
+custom_histogram(data, "Var7", bins = 20, title = "Histogram of Var7", xlab = "Var7", ylab = "Frequency", color = "maroon")
+custom_histogram(data, "Var8", bins = 20, title = "Histogram of Var8", xlab = "Var8", ylab = "Frequency", color = "maroon")
